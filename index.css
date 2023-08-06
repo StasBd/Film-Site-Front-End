@@ -1,0 +1,504 @@
+.desktop-1-child {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    background-color: #708090;
+    width: 1440px;
+    height: 89px;
+  }
+  .desktop-1-item {
+    position: absolute;
+    top: 398px;
+    left: 243px;
+    background-color: var(--color-darkslategray);
+    width: 303px;
+    height: 617px;
+  }
+  .desktop-1-inner,
+  .rectangle-div {
+    position: absolute;
+    top: 328px;
+    left: 243px;
+    background-color: #2c2727;
+    width: 303px;
+    height: 71px;
+  }
+  .rectangle-div {
+    top: 327px;
+    left: 546px;
+    background-color: #232222;
+    width: 588px;
+    height: 697px;
+  }
+  .films,
+  .panel-of-navigation {
+    font-size: var(--font-size-xl);
+  }
+  .panel-of-navigation {
+    position: absolute;
+    top: 351px;
+    left: 270px;
+    display: inline-block;
+    width: 256px;
+    height: 34px;
+  }
+  .films {
+    top: 415px;
+    left: 258px;
+    width: 82px;
+    height: 42px;
+  }
+  .battle,
+  .films,
+  .military,
+  .serials,
+  .wester {
+    position: absolute;
+    display: inline-block;
+  }
+  .serials {
+    top: 415px;
+    left: 422px;
+    font-size: var(--font-size-xl);
+    width: 90px;
+    height: 38px;
+  }
+  .battle,
+  .military,
+  .wester {
+    top: 453px;
+    left: 256px;
+    width: 68px;
+    height: 26px;
+  }
+  .military,
+  .wester {
+    top: 466px;
+    width: 60px;
+    height: 46px;
+  }
+  .military {
+    top: 512px;
+    left: 258px;
+    width: 58px;
+    height: 33px;
+  }
+  .detective,
+  .frame-div {
+    position: absolute;
+    top: 545px;
+  }
+  .detective {
+    left: 258px;
+    display: inline-block;
+    width: 82px;
+    height: 42px;
+  }
+  .frame-div {
+    left: 330px;
+    width: 9px;
+    height: 1px;
+    overflow: hidden;
+  }
+  .drama,
+  .history,
+  .horrors {
+    position: absolute;
+    top: 574px;
+    left: 256px;
+    display: inline-block;
+    width: 68px;
+    height: 32px;
+  }
+  .history,
+  .horrors {
+    top: 613px;
+    left: 258px;
+    width: 72px;
+    height: 20px;
+  }
+  .horrors {
+    top: 643px;
+    left: 259px;
+    width: 71px;
+    height: 28px;
+  }
+  .desktop-1-child1 {
+    position: absolute;
+    top: 442px;
+    left: 400px;
+    background-color: var(--color-darkslategray);
+    width: 102px;
+    height: 573px;
+  }
+  .battle1,
+  .detective1,
+  .military1,
+  .wester1 {
+    position: absolute;
+    top: 456px;
+    left: 428px;
+    display: inline-block;
+    width: 68px;
+    height: 26px;
+  }
+  .detective1,
+  .military1,
+  .wester1 {
+    top: 469px;
+    width: 60px;
+    height: 46px;
+  }
+  .detective1,
+  .military1 {
+    top: 515px;
+    left: 430px;
+    width: 58px;
+    height: 33px;
+  }
+  .detective1 {
+    top: 548px;
+    width: 82px;
+    height: 42px;
+  }
+  .desktop-1-child2 {
+    position: absolute;
+    top: 548px;
+    left: 502px;
+    width: 9px;
+    height: 1px;
+    overflow: hidden;
+  }
+  .country,
+  .drama1,
+  .history1,
+  .horrors1 {
+    position: absolute;
+    top: 577px;
+    left: 428px;
+    display: inline-block;
+    width: 68px;
+    height: 32px;
+  }
+  .country,
+  .history1,
+  .horrors1 {
+    top: 616px;
+    left: 430px;
+    width: 72px;
+    height: 20px;
+  }
+  .country,
+  .horrors1 {
+    top: 646px;
+    left: 431px;
+    width: 71px;
+    height: 28px;
+  }
+  .country {
+    top: 687px;
+    left: 254px;
+    width: 86px;
+  }
+  .france,
+  .italy,
+  .spain,
+  .turkey,
+  .uk,
+  .usa {
+    position: absolute;
+    top: 715px;
+    left: 260px;
+    display: inline-block;
+    width: 56px;
+    height: 33px;
+  }
+  .france,
+  .italy,
+  .spain,
+  .turkey,
+  .uk {
+    top: 748px;
+    left: 257px;
+    width: 73px;
+    height: 29px;
+  }
+  .italy,
+  .spain,
+  .turkey,
+  .uk {
+    top: 784px;
+    left: 260px;
+    width: 64px;
+  }
+  .spain,
+  .turkey,
+  .uk {
+    top: 820px;
+    left: 262px;
+    width: 62px;
+    height: 26px;
+  }
+  .turkey,
+  .uk {
+    top: 859px;
+    left: 263px;
+    width: 53px;
+    height: 28px;
+  }
+  .turkey {
+    top: 887px;
+    left: 259px;
+    width: 71px;
+    height: 40px;
+  }
+  .by-years,
+  .div,
+  .div1,
+  .div2,
+  .div3,
+  .div4 {
+    position: absolute;
+    top: 687px;
+    left: 407px;
+    display: inline-block;
+    width: 99px;
+    height: 27px;
+  }
+  .div,
+  .div1,
+  .div2,
+  .div3,
+  .div4 {
+    top: 729px;
+    left: 410px;
+    width: 57px;
+    height: 23px;
+  }
+  .div1,
+  .div2,
+  .div3,
+  .div4 {
+    top: 762px;
+    left: 412px;
+    width: 39px;
+    height: 29px;
+  }
+  .div2,
+  .div3,
+  .div4 {
+    top: 799px;
+    width: 44px;
+    height: 31px;
+  }
+  .div3,
+  .div4 {
+    top: 834px;
+    left: 410px;
+    width: 46px;
+    height: 35px;
+  }
+  .div4 {
+    top: 873px;
+    width: 48px;
+    height: 41px;
+  }
+  .vector-icon {
+    position: absolute;
+    top: 25.5px;
+    left: 35.5px;
+    width: 84px;
+    height: 50.06px;
+  }
+  .desktop-1-child3 {
+    position: absolute;
+    top: 21.5px;
+    left: 54.52px;
+    width: 29.01px;
+    height: 52.69px;
+  }
+  .desktop-1-child4 {
+    position: absolute;
+    top: 16.47px;
+    left: 78.26px;
+    width: 27.24px;
+    height: 38.08px;
+  }
+  .desktop-1-child5 {
+    position: absolute;
+    top: 19px;
+    left: 917px;
+    border-radius: var(--br-81xl);
+    background-color: var(--color-gainsboro);
+    width: 140px;
+    height: 42px;
+  }
+  .log-in {
+    position: absolute;
+    top: 33px;
+    left: 966px;
+    font-size: var(--font-size-xs);
+    color: var(--color-black);
+    display: inline-block;
+    width: 68px;
+    height: 21px;
+  }
+  .desktop-1-child6 {
+    position: absolute;
+    top: 19px;
+    left: 1113px;
+    border-radius: var(--br-81xl);
+    background-color: var(--color-gainsboro);
+    width: 126px;
+    height: 43px;
+  }
+  .register {
+    position: absolute;
+    top: 33px;
+    left: 1148px;
+    font-size: var(--font-size-xs);
+    color: var(--color-black);
+    display: inline-block;
+    width: 61px;
+    height: 29px;
+  }
+  .desktop-1-child7 {
+    position: absolute;
+    top: 327px;
+    left: 548px;
+    background-color: #1e1a1a;
+    width: 586px;
+    height: 68px;
+  }
+  .name-of-film {
+    position: absolute;
+    top: 328px;
+    left: 578px;
+    font-size: 32px;
+    display: inline-block;
+    width: 514px;
+    height: 55px;
+  }
+  .desktop-1-child8 {
+    position: absolute;
+    top: 395px;
+    left: 576px;
+    background-color: var(--color-gainsboro);
+    width: 168px;
+    height: 176px;
+  }
+  .photo {
+    position: absolute;
+    top: 434px;
+    left: 602px;
+    font-size: 24px;
+    color: var(--color-black);
+    display: inline-block;
+    width: 118px;
+    height: 78px;
+  }
+  .desktop-1-child9,
+  .year {
+    position: absolute;
+    top: 395px;
+  }
+  .desktop-1-child9 {
+    left: 744px;
+    background-color: #2e2828;
+    width: 211px;
+    height: 39px;
+  }
+  .year {
+    left: 753px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    width: 175px;
+    height: 29px;
+  }
+  .desktop-1-child10 {
+    position: absolute;
+    top: 434px;
+    left: 744px;
+    background-color: #161313;
+    width: 211px;
+    height: 36px;
+  }
+  .country1 {
+    position: absolute;
+    top: 434px;
+    left: 754px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    width: 188px;
+    height: 26px;
+  }
+  .desktop-1-child11 {
+    position: absolute;
+    top: 470px;
+    left: 744px;
+    background-color: #2e2a2a;
+    width: 211px;
+    height: 36px;
+  }
+  .minutes {
+    position: absolute;
+    top: 473px;
+    left: 753px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    width: 131px;
+    height: 25px;
+  }
+  .desktop-1-child12 {
+    position: absolute;
+    top: 506px;
+    left: 746px;
+    background-color: #110f0f;
+    width: 209px;
+    height: 63px;
+  }
+  .type-of-film {
+    position: absolute;
+    top: 506px;
+    left: 750px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    width: 192px;
+    height: 22px;
+  }
+  .desktop-1-child13 {
+    position: absolute;
+    top: 600px;
+    left: 565px;
+    background-color: #181515;
+    width: 543px;
+    height: 392px;
+  }
+  .description {
+    position: absolute;
+    top: 609px;
+    left: 581px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    width: 449px;
+    height: 48px;
+  }
+  .desktop-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 1440px;
+    height: 1024px;
+    overflow: hidden;
+  }
+  .mask-group {
+    position: relative;
+    width: 100%;
+    height: 1024px;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  
